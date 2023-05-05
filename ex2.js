@@ -1,8 +1,9 @@
 /*
 Utilisez les données fourni ainsi que le fichier ex2.html
-1) Ciblez la classe "concerts-title". Rajoutez de maniere dynamique, le nombre actuelle de concerts. Sans compter le tableau a la main!
-2) Pour chaque concert, creez une balise h3 pour afficher le titre du concert, une balise h4 pour afficher  la ville du concert, 
-3) Creez une ul pour lister tous les groupes qui joue pour le concert en cours. Apres chaque concert rajoutez un br pour espacer un peu
+
+1) Pour chaque concert, creez une balise h3 pour afficher le titre du concert, une balise h4 pour afficher  la ville du concert,et le nombre de bands qui joue au cnncert
+// BONUS! 
+2) Creez une ul pour lister tous les groupes qui joue pour le concert en cours. Apres chaque concert rajoutez un br pour espacer un peu
 
 */
 
